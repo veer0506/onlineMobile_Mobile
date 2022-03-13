@@ -1,0 +1,2 @@
+2022-03-13 17:58:49,344 INFO com.cg.oma.demo.controller.MobileController [http-nio-8093-exec-1] showMobileBycategory()called
+2022-03-13 17:58:57,282 INFO com.cg.oma.demo.controller.MobileController [http-nio-8093-exec-3] showMobileBycategory()called
